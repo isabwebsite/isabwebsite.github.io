@@ -1,0 +1,322 @@
+{
+  "captured": "2026-10-17 through 2026-10-18; see each screenshot",
+  "method": "Actual browser screenshots of public pages. No account login, property inquiry, or application submitted.",
+  "format": "JPEG",
+  "width": 1280,
+  "height": 720,
+  "notice": "Third-party website screenshots for interface commentary and event information. Branding and images retain their respective owners. These screenshots are not covered by the Wikimedia photo licenses. Prices, availability and schedules shown are dated examples. Screenshots do not imply ISAB affiliation with the sites, banks, providers or event organizers.",
+  "screenshots": [
+    {
+      "file": "zillow-iowa-city.jpg",
+      "source": "https://www.zillow.com/iowa-city-ia/rentals/",
+      "view": "Zillow Iowa City rental results; unfiltered overview",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "zillow-price-filter.jpg",
+      "source": "https://www.zillow.com/iowa-city-ia/rentals/",
+      "view": "Zillow Price Range panel; no values entered",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "zillow-beds-filter.jpg",
+      "source": "https://www.zillow.com/iowa-city-ia/rentals/",
+      "view": "Zillow Beds & baths panel; Any selected",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "apartments-iowa-city.jpg",
+      "source": "https://www.apartments.com/iowa-city-ia/",
+      "view": "Apartments.com Iowa City overview with Videos and Virtual Tours links",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "apartments-filters.jpg",
+      "source": "https://www.apartments.com/iowa-city-ia/",
+      "view": "Apartments.com All Filters with Move-In Date calendar open; no date selected",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "iowa-city-water.jpg",
+      "source": "https://www.icgov.org/government/departments-and-divisions/finance/revenue-utilities",
+      "view": "Start or Stop Service public accordion expanded",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "midamerican-service.jpg",
+      "source": "https://www.midamericanenergy.com/start-stop-service",
+      "view": "Public overview; cookie notice dismissed; no request submitted",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "iowa-arts-festival.jpg",
+      "source": "https://summerofthearts.org/sota-events/iowa-arts-festival/",
+      "view": "Organizer public information page overview; captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "friday-night-concerts.jpg",
+      "source": "https://summerofthearts.org/sota-events/friday-night-concert-series/",
+      "view": "Organizer public information page overview; captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "farmers-market.jpg",
+      "source": "https://www.icgov.org/government/departments-and-divisions/parks-and-recreation/farmers-market",
+      "view": "Organizer public information page overview; captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "iowa-city-jazz-festival.jpg",
+      "source": "https://summerofthearts.org/sota-events/iowa-city-jazz-festival/",
+      "view": "Organizer public overview, captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "iowa-city-book-festival.jpg",
+      "source": "https://www.iowacityofliterature.org/icbf/",
+      "view": "Organizer public overview, captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "iowa-city-pride.jpg",
+      "source": "https://www.iowacitypride.org/events-1/iowa-city-pride-festival-1",
+      "view": "Organizer public overview, captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "holiday-markets.jpg",
+      "source": "https://www.icgov.org/government/departments-and-divisions/parks-and-recreation/farmers-market",
+      "view": "City Holiday Market accordion, scrolled to the two 2026 dates",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "day-party.jpg",
+      "source": "https://missioncreekfestival.com/",
+      "view": "Organizer public overview, captured 2026-10-17",
+      "captured": "2026-10-17"
+    },
+    {
+      "file": "aldi-shopping.jpg",
+      "source": "https://help.aldi.us/faqs/article/About-ALDI-U-S---FAQs",
+      "captured": "2026-10-18",
+      "view": "Public shopping FAQ: quarter cart deposit and bagging; cookie notice rejected"
+    },
+    {
+      "file": "costco-coralville.jpg",
+      "source": "https://www.costco.com/warehouse-locations/warehouse-1111.html",
+      "captured": "2026-10-18",
+      "view": "Warehouse address, membership-specific hours and phone"
+    },
+    {
+      "file": "costco-gas-hours.jpg",
+      "source": "https://www.costco.com/warehouse-locations/warehouse-1111.html",
+      "captured": "2026-10-18",
+      "view": "Gas Station expanded; Gas Hours shows Closed for all days. Display is not a confirmed permanent-closure announcement."
+    },
+    {
+      "file": "mobility-bike-options.jpg",
+      "source": "https://www.worldofbikes.com/",
+      "captured": "2026-10-18",
+      "view": "Local bike shop public homepage; no booking or purchase"
+    },
+    {
+      "file": "bike-library-checkout.jpg",
+      "source": "https://icbikelibrary.org/get-a-bike",
+      "captured": "2026-10-18",
+      "view": "CHECK OUT deposit and six-month terms"
+    },
+    {
+      "file": "bike-library-repair.jpg",
+      "source": "https://icbikelibrary.org/rent-a-bench",
+      "captured": "2026-10-18",
+      "view": "Rent-A-Bench public information and suggested donation"
+    },
+    {
+      "file": "parking-city-permits.jpg",
+      "source": "https://www.icgov.org/government/departments-and-divisions/transportation/parking/parking-permits",
+      "captured": "2026-10-18",
+      "view": "City evening/weekend permit price, times and purchase office"
+    },
+    {
+      "file": "parking-city-ramp-payment.jpg",
+      "source": "https://www.icgov.org/government/departments-and-divisions/transportation/parking/parking-ramps-parking-meters",
+      "captured": "2026-10-18",
+      "view": "Public ramp information and plate-registration requirements"
+    },
+    {
+      "file": "chase-branch.jpg",
+      "source": "https://www.chase.com/locator/banking/us/ia/iowa-city/105-e-burlington-st",
+      "view": "Public Iowa City Chase branch details: address, branch hours and map; cookie notice dismissed",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "chase-checking.jpg",
+      "source": "https://personal.chase.com/personal/secure-banking",
+      "view": "Secure Banking public fee and age/deposit conditions; no application opened",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "wells-fargo-branch.jpg",
+      "source": "https://locations.wellsfargo.com/ia/iowa-city/103-e-college-st",
+      "view": "Public downtown Wells Fargo branch location and lobby hours",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "wells-fargo-checking.jpg",
+      "source": "https://www.wellsfargo.com/checking/clear-access-banking/",
+      "view": "Clear Access Banking public account basics, fee and requirements; no application opened",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "campus-parking-map.jpg",
+      "source": "https://transportation.uiowa.edu/parking/facilities",
+      "view": "Surface Lots section of official campus parking facilities overview; this image is a website overview, not a full campus map",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "campus-lot85.jpg",
+      "source": "https://transportation.uiowa.edu/parking/facilities/hawkeye-commuter-storage-lot",
+      "view": "Hawkeye Commuter and Storage Lot public facility page",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "campus-lot65.jpg",
+      "source": "https://transportation.uiowa.edu/parking/facilities/finkbine-commuter-lot",
+      "view": "Finkbine Lot 65 public facility page with address and location illustration",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "campus-lot55.jpg",
+      "source": "https://transportation.uiowa.edu/parking/facilities/hancher-parking-lot",
+      "view": "Hancher Lot 55 public facility page with location and lot details",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "library-resources.jpg",
+      "source": "https://www.lib.uiowa.edu/",
+      "view": "Library homepage and public InfoHawk+ search entry",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "library-search.jpg",
+      "source": "https://guides.lib.uiowa.edu/hssgradstudent/catalog",
+      "view": "Official guide: Using InfoHawk+ to Find Print Materials; no personal catalog account",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "study-room-booking.jpg",
+      "source": "https://www.lib.uiowa.edu/commons/group-spaces/",
+      "view": "Public Office365 room-finder booking instructions; no reservation submitted",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "main-library-spaces.jpg",
+      "source": "https://www.lib.uiowa.edu/about/studyspaces/",
+      "view": "Quiet study areas, floor guide and graduate room information",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "main-library-building.jpg",
+      "source": "https://www.lib.uiowa.edu/locations/main/",
+      "view": "Official Main Library location page with address and building photograph",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "learning-commons-seating.jpg",
+      "source": "https://www.lib.uiowa.edu/commons/",
+      "view": "Seating, Spaces and Services section with a seating photo displayed by the library; screenshot is not an ISAB photograph",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "counseling-start.jpg",
+      "source": "https://counseling.uiowa.edu/appointments-and-consultations",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "insurance-plans.jpg",
+      "source": "https://hr.uiowa.edu/benefits/ui-student-insurance/student-insurance-overview/student-insurance-premium-rates",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "insurance-comparison.jpg",
+      "source": "https://hr.uiowa.edu/benefits/ui-student-insurance/student-insurance-overview/student-health-insurance/ship-and",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "student-health-visit.jpg",
+      "source": "https://studenthealth.uiowa.edu/appointments",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "hancher-shows.jpg",
+      "source": "https://hancher.uiowa.edu/2026-27",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "riverside-theatre.jpg",
+      "source": "https://riversidetheatre.org/planyourvisit/",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "filmscene-movies.jpg",
+      "source": "https://icfilmscene.org/visit-contact/ticket-prices/",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "filmscene-showtimes.jpg",
+      "source": "https://icfilmscene.org/now-playing/",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "marcus-cinema.jpg",
+      "source": "https://www.marcustheatres.com/theatre-locations/sycamore-cinema",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "campus-rec.jpg",
+      "source": "https://recserv.uiowa.edu/campus-recreation-wellness-center",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "sports-signup.jpg",
+      "source": "https://recserv.uiowa.edu/intramural-sports",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "city-park-trails.jpg",
+      "source": "https://www.icgov.org/government/departments-and-divisions/parks-and-recreation/parks-and-trails",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "outdoor-rental.jpg",
+      "source": "https://recserv.uiowa.edu/outdoor-rental-center",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "student-support.jpg",
+      "source": "https://dos.uiowa.edu/assistance",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    },
+    {
+      "file": "food-pantry.jpg",
+      "source": "https://foodpantry.org.uiowa.edu/",
+      "view": "Actual public webpage screenshot, with the relevant service, venue, schedule or pricing content in view. No account or booking was created.",
+      "captured": "2026-10-18"
+    }
+  ]
+}

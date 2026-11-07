@@ -1,0 +1,1501 @@
+{
+  "date": "2026-11-06",
+  "articles": 185,
+  "unique_articles": 61,
+  "routes": 883,
+  "languages": [
+    "zh",
+    "en",
+    "es",
+    "ar",
+    "hi",
+    "ko",
+    "vi",
+    "fr",
+    "bn",
+    "pt",
+    "sw"
+  ],
+  "source_files": [
+    {
+      "file": "content/ar/note/trip-amana.md",
+      "path": "/ar/guides/note/trip-amana/",
+      "lang": "ar",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ar/note/trip-cedar-rapids.md",
+      "path": "/ar/guides/note/trip-cedar-rapids/",
+      "lang": "ar",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ar/note/trip-des-moines.md",
+      "path": "/ar/guides/note/trip-des-moines/",
+      "lang": "ar",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ar/note/trip-galena.md",
+      "path": "/ar/guides/note/trip-galena/",
+      "lang": "ar",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ar/note/trip-maquoketa.md",
+      "path": "/ar/guides/note/trip-maquoketa/",
+      "lang": "ar",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ar/note/trip-west-branch.md",
+      "path": "/ar/guides/note/trip-west-branch/",
+      "lang": "ar",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ar/note/winter-clothing.md",
+      "path": "/ar/guides/note/winter-clothing/",
+      "lang": "ar",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/trip-amana.md",
+      "path": "/bn/guides/note/trip-amana/",
+      "lang": "bn",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/trip-cedar-rapids.md",
+      "path": "/bn/guides/note/trip-cedar-rapids/",
+      "lang": "bn",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/trip-des-moines.md",
+      "path": "/bn/guides/note/trip-des-moines/",
+      "lang": "bn",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/trip-galena.md",
+      "path": "/bn/guides/note/trip-galena/",
+      "lang": "bn",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/trip-maquoketa.md",
+      "path": "/bn/guides/note/trip-maquoketa/",
+      "lang": "bn",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/trip-west-branch.md",
+      "path": "/bn/guides/note/trip-west-branch/",
+      "lang": "bn",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/bn/note/winter-clothing.md",
+      "path": "/bn/guides/note/winter-clothing/",
+      "lang": "bn",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/event/day-party.md",
+      "path": "/en/guides/event/day-party/",
+      "lang": "en",
+      "key": "event/day-party",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/downtown-block-party.md",
+      "path": "/en/guides/event/downtown-block-party/",
+      "lang": "en",
+      "key": "event/downtown-block-party",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/friday-night-concert-series.md",
+      "path": "/en/guides/event/friday-night-concert-series/",
+      "lang": "en",
+      "key": "event/friday-night-concert-series",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/iowa-arts-festival.md",
+      "path": "/en/guides/event/iowa-arts-festival/",
+      "lang": "en",
+      "key": "event/iowa-arts-festival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/iowa-city-book-festival.md",
+      "path": "/en/guides/event/iowa-city-book-festival/",
+      "lang": "en",
+      "key": "event/iowa-city-book-festival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/iowa-city-farmers-market.md",
+      "path": "/en/guides/event/iowa-city-farmers-market/",
+      "lang": "en",
+      "key": "event/iowa-city-farmers-market",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/iowa-city-holiday-markets.md",
+      "path": "/en/guides/event/iowa-city-holiday-markets/",
+      "lang": "en",
+      "key": "event/iowa-city-holiday-markets",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/iowa-city-jazz-festival.md",
+      "path": "/en/guides/event/iowa-city-jazz-festival/",
+      "lang": "en",
+      "key": "event/iowa-city-jazz-festival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/event/iowa-city-pride.md",
+      "path": "/en/guides/event/iowa-city-pride/",
+      "lang": "en",
+      "key": "event/iowa-city-pride",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/journal/apartments-search.md",
+      "path": "/en/guides/journal/apartments-search/",
+      "lang": "en",
+      "key": "journal/apartments-search",
+      "checked": "2026-10-17",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/journal/zillow-search.md",
+      "path": "/en/guides/journal/zillow-search/",
+      "lang": "en",
+      "key": "journal/zillow-search",
+      "checked": "2026-10-17",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/note/trip-amana.md",
+      "path": "/en/guides/note/trip-amana/",
+      "lang": "en",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/note/trip-cedar-rapids.md",
+      "path": "/en/guides/note/trip-cedar-rapids/",
+      "lang": "en",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/note/trip-des-moines.md",
+      "path": "/en/guides/note/trip-des-moines/",
+      "lang": "en",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/note/trip-galena.md",
+      "path": "/en/guides/note/trip-galena/",
+      "lang": "en",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/note/trip-maquoketa.md",
+      "path": "/en/guides/note/trip-maquoketa/",
+      "lang": "en",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/note/trip-west-branch.md",
+      "path": "/en/guides/note/trip-west-branch/",
+      "lang": "en",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/note/winter-clothing.md",
+      "path": "/en/guides/note/winter-clothing/",
+      "lang": "en",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/en/place/bread-garden.md",
+      "path": "/en/guides/place/bread-garden/",
+      "lang": "en",
+      "key": "place/bread-garden",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/i-love-fufu.md",
+      "path": "/en/guides/place/i-love-fufu/",
+      "lang": "en",
+      "key": "place/i-love-fufu",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/iowa-pho.md",
+      "path": "/en/guides/place/iowa-pho/",
+      "lang": "en",
+      "key": "place/iowa-pho",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/kandaka.md",
+      "path": "/en/guides/place/kandaka/",
+      "lang": "en",
+      "key": "place/kandaka",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/la-regia.md",
+      "path": "/en/guides/place/la-regia/",
+      "lang": "en",
+      "key": "place/la-regia",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/mesa503.md",
+      "path": "/en/guides/place/mesa503/",
+      "lang": "en",
+      "key": "place/mesa503",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/new-pioneer.md",
+      "path": "/en/guides/place/new-pioneer/",
+      "lang": "en",
+      "key": "place/new-pioneer",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/nodo.md",
+      "path": "/en/guides/place/nodo/",
+      "lang": "en",
+      "key": "place/nodo",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/oasis.md",
+      "path": "/en/guides/place/oasis/",
+      "lang": "en",
+      "key": "place/oasis",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/paradise-indian-market.md",
+      "path": "/en/guides/place/paradise-indian-market/",
+      "lang": "en",
+      "key": "place/paradise-indian-market",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/soseki.md",
+      "path": "/en/guides/place/soseki/",
+      "lang": "en",
+      "key": "place/soseki",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/szechuan-house.md",
+      "path": "/en/guides/place/szechuan-house/",
+      "lang": "en",
+      "key": "place/szechuan-house",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/trader-joes.md",
+      "path": "/en/guides/place/trader-joes/",
+      "lang": "en",
+      "key": "place/trader-joes",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/place/trumpet-blossom.md",
+      "path": "/en/guides/place/trumpet-blossom/",
+      "lang": "en",
+      "key": "place/trumpet-blossom",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/practical/aldi-shopping-notes.md",
+      "path": "/en/guides/practical/aldi-shopping-notes/",
+      "lang": "en",
+      "key": "practical/aldi-shopping-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/banking-notes.md",
+      "path": "/en/guides/practical/banking-notes/",
+      "lang": "en",
+      "key": "practical/banking-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/bike-ebike-scooter-notes.md",
+      "path": "/en/guides/practical/bike-ebike-scooter-notes/",
+      "lang": "en",
+      "key": "practical/bike-ebike-scooter-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/bike-library-notes.md",
+      "path": "/en/guides/practical/bike-library-notes/",
+      "lang": "en",
+      "key": "practical/bike-library-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/campus-parking-lots.md",
+      "path": "/en/guides/practical/campus-parking-lots/",
+      "lang": "en",
+      "key": "practical/campus-parking-lots",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/campus-sports.md",
+      "path": "/en/guides/practical/campus-sports/",
+      "lang": "en",
+      "key": "practical/campus-sports",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/costco-shopping-gas-notes.md",
+      "path": "/en/guides/practical/costco-shopping-gas-notes/",
+      "lang": "en",
+      "key": "practical/costco-shopping-gas-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/counseling-support.md",
+      "path": "/en/guides/practical/counseling-support/",
+      "lang": "en",
+      "key": "practical/counseling-support",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/health-insurance.md",
+      "path": "/en/guides/practical/health-insurance/",
+      "lang": "en",
+      "key": "practical/health-insurance",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/library-resources.md",
+      "path": "/en/guides/practical/library-resources/",
+      "lang": "en",
+      "key": "practical/library-resources",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/movie-nights.md",
+      "path": "/en/guides/practical/movie-nights/",
+      "lang": "en",
+      "key": "practical/movie-nights",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/outdoor-active.md",
+      "path": "/en/guides/practical/outdoor-active/",
+      "lang": "en",
+      "key": "practical/outdoor-active",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/parking-permit-notes.md",
+      "path": "/en/guides/practical/parking-permit-notes/",
+      "lang": "en",
+      "key": "practical/parking-permit-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/student-support.md",
+      "path": "/en/guides/practical/student-support/",
+      "lang": "en",
+      "key": "practical/student-support",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/study-spaces.md",
+      "path": "/en/guides/practical/study-spaces/",
+      "lang": "en",
+      "key": "practical/study-spaces",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/theatre-live-shows.md",
+      "path": "/en/guides/practical/theatre-live-shows/",
+      "lang": "en",
+      "key": "practical/theatre-live-shows",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/using-healthcare.md",
+      "path": "/en/guides/practical/using-healthcare/",
+      "lang": "en",
+      "key": "practical/using-healthcare",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/utilities-notes.md",
+      "path": "/en/guides/practical/utilities-notes/",
+      "lang": "en",
+      "key": "practical/utilities-notes",
+      "checked": "2026-10-17",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/practical/wells-fargo-notes.md",
+      "path": "/en/guides/practical/wells-fargo-notes/",
+      "lang": "en",
+      "key": "practical/wells-fargo-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/resource/anki-notes.md",
+      "path": "/en/guides/resource/anki-notes/",
+      "lang": "en",
+      "key": "resource/anki-notes",
+      "checked": "2026-11-06",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/resource/budget-bytes-notes.md",
+      "path": "/en/guides/resource/budget-bytes-notes/",
+      "lang": "en",
+      "key": "resource/budget-bytes-notes",
+      "checked": "2026-11-06",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/resource/zotero-notes.md",
+      "path": "/en/guides/resource/zotero-notes/",
+      "lang": "en",
+      "key": "resource/zotero-notes",
+      "checked": "2026-11-06",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/en/ride/cedar-rapids-daytrip.md",
+      "path": "/en/guides/ride/cedar-rapids-daytrip/",
+      "lang": "en",
+      "key": "ride/cedar-rapids-daytrip",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/ride/cid-arrival.md",
+      "path": "/en/guides/ride/cid-arrival/",
+      "lang": "en",
+      "key": "ride/cid-arrival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/ride/coralville-fares.md",
+      "path": "/en/guides/ride/coralville-fares/",
+      "lang": "en",
+      "key": "ride/coralville-fares",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/ride/downtown-to-irl.md",
+      "path": "/en/guides/ride/downtown-to-irl/",
+      "lang": "en",
+      "key": "ride/downtown-to-irl",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/ride/first-city-bus.md",
+      "path": "/en/guides/ride/first-city-bus/",
+      "lang": "en",
+      "key": "ride/first-city-bus",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/ride/mall-return.md",
+      "path": "/en/guides/ride/mall-return/",
+      "lang": "en",
+      "key": "ride/mall-return",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/en/ride/sunday-plan.md",
+      "path": "/en/guides/ride/sunday-plan/",
+      "lang": "en",
+      "key": "ride/sunday-plan",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/es/note/trip-amana.md",
+      "path": "/es/guides/note/trip-amana/",
+      "lang": "es",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/es/note/trip-cedar-rapids.md",
+      "path": "/es/guides/note/trip-cedar-rapids/",
+      "lang": "es",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/es/note/trip-des-moines.md",
+      "path": "/es/guides/note/trip-des-moines/",
+      "lang": "es",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/es/note/trip-galena.md",
+      "path": "/es/guides/note/trip-galena/",
+      "lang": "es",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/es/note/trip-maquoketa.md",
+      "path": "/es/guides/note/trip-maquoketa/",
+      "lang": "es",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/es/note/trip-west-branch.md",
+      "path": "/es/guides/note/trip-west-branch/",
+      "lang": "es",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/es/note/winter-clothing.md",
+      "path": "/es/guides/note/winter-clothing/",
+      "lang": "es",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/trip-amana.md",
+      "path": "/fr/guides/note/trip-amana/",
+      "lang": "fr",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/trip-cedar-rapids.md",
+      "path": "/fr/guides/note/trip-cedar-rapids/",
+      "lang": "fr",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/trip-des-moines.md",
+      "path": "/fr/guides/note/trip-des-moines/",
+      "lang": "fr",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/trip-galena.md",
+      "path": "/fr/guides/note/trip-galena/",
+      "lang": "fr",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/trip-maquoketa.md",
+      "path": "/fr/guides/note/trip-maquoketa/",
+      "lang": "fr",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/trip-west-branch.md",
+      "path": "/fr/guides/note/trip-west-branch/",
+      "lang": "fr",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/fr/note/winter-clothing.md",
+      "path": "/fr/guides/note/winter-clothing/",
+      "lang": "fr",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/trip-amana.md",
+      "path": "/hi/guides/note/trip-amana/",
+      "lang": "hi",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/trip-cedar-rapids.md",
+      "path": "/hi/guides/note/trip-cedar-rapids/",
+      "lang": "hi",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/trip-des-moines.md",
+      "path": "/hi/guides/note/trip-des-moines/",
+      "lang": "hi",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/trip-galena.md",
+      "path": "/hi/guides/note/trip-galena/",
+      "lang": "hi",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/trip-maquoketa.md",
+      "path": "/hi/guides/note/trip-maquoketa/",
+      "lang": "hi",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/trip-west-branch.md",
+      "path": "/hi/guides/note/trip-west-branch/",
+      "lang": "hi",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/hi/note/winter-clothing.md",
+      "path": "/hi/guides/note/winter-clothing/",
+      "lang": "hi",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/trip-amana.md",
+      "path": "/ko/guides/note/trip-amana/",
+      "lang": "ko",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/trip-cedar-rapids.md",
+      "path": "/ko/guides/note/trip-cedar-rapids/",
+      "lang": "ko",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/trip-des-moines.md",
+      "path": "/ko/guides/note/trip-des-moines/",
+      "lang": "ko",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/trip-galena.md",
+      "path": "/ko/guides/note/trip-galena/",
+      "lang": "ko",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/trip-maquoketa.md",
+      "path": "/ko/guides/note/trip-maquoketa/",
+      "lang": "ko",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/trip-west-branch.md",
+      "path": "/ko/guides/note/trip-west-branch/",
+      "lang": "ko",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/ko/note/winter-clothing.md",
+      "path": "/ko/guides/note/winter-clothing/",
+      "lang": "ko",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/trip-amana.md",
+      "path": "/pt/guides/note/trip-amana/",
+      "lang": "pt",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/trip-cedar-rapids.md",
+      "path": "/pt/guides/note/trip-cedar-rapids/",
+      "lang": "pt",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/trip-des-moines.md",
+      "path": "/pt/guides/note/trip-des-moines/",
+      "lang": "pt",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/trip-galena.md",
+      "path": "/pt/guides/note/trip-galena/",
+      "lang": "pt",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/trip-maquoketa.md",
+      "path": "/pt/guides/note/trip-maquoketa/",
+      "lang": "pt",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/trip-west-branch.md",
+      "path": "/pt/guides/note/trip-west-branch/",
+      "lang": "pt",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/pt/note/winter-clothing.md",
+      "path": "/pt/guides/note/winter-clothing/",
+      "lang": "pt",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/trip-amana.md",
+      "path": "/sw/guides/note/trip-amana/",
+      "lang": "sw",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/trip-cedar-rapids.md",
+      "path": "/sw/guides/note/trip-cedar-rapids/",
+      "lang": "sw",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/trip-des-moines.md",
+      "path": "/sw/guides/note/trip-des-moines/",
+      "lang": "sw",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/trip-galena.md",
+      "path": "/sw/guides/note/trip-galena/",
+      "lang": "sw",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/trip-maquoketa.md",
+      "path": "/sw/guides/note/trip-maquoketa/",
+      "lang": "sw",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/trip-west-branch.md",
+      "path": "/sw/guides/note/trip-west-branch/",
+      "lang": "sw",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/sw/note/winter-clothing.md",
+      "path": "/sw/guides/note/winter-clothing/",
+      "lang": "sw",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/trip-amana.md",
+      "path": "/vi/guides/note/trip-amana/",
+      "lang": "vi",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/trip-cedar-rapids.md",
+      "path": "/vi/guides/note/trip-cedar-rapids/",
+      "lang": "vi",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/trip-des-moines.md",
+      "path": "/vi/guides/note/trip-des-moines/",
+      "lang": "vi",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/trip-galena.md",
+      "path": "/vi/guides/note/trip-galena/",
+      "lang": "vi",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/trip-maquoketa.md",
+      "path": "/vi/guides/note/trip-maquoketa/",
+      "lang": "vi",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/trip-west-branch.md",
+      "path": "/vi/guides/note/trip-west-branch/",
+      "lang": "vi",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/vi/note/winter-clothing.md",
+      "path": "/vi/guides/note/winter-clothing/",
+      "lang": "vi",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/event/day-party.md",
+      "path": "/zh/guides/event/day-party/",
+      "lang": "zh",
+      "key": "event/day-party",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/downtown-block-party.md",
+      "path": "/zh/guides/event/downtown-block-party/",
+      "lang": "zh",
+      "key": "event/downtown-block-party",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/friday-night-concert-series.md",
+      "path": "/zh/guides/event/friday-night-concert-series/",
+      "lang": "zh",
+      "key": "event/friday-night-concert-series",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/iowa-arts-festival.md",
+      "path": "/zh/guides/event/iowa-arts-festival/",
+      "lang": "zh",
+      "key": "event/iowa-arts-festival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/iowa-city-book-festival.md",
+      "path": "/zh/guides/event/iowa-city-book-festival/",
+      "lang": "zh",
+      "key": "event/iowa-city-book-festival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/iowa-city-farmers-market.md",
+      "path": "/zh/guides/event/iowa-city-farmers-market/",
+      "lang": "zh",
+      "key": "event/iowa-city-farmers-market",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/iowa-city-holiday-markets.md",
+      "path": "/zh/guides/event/iowa-city-holiday-markets/",
+      "lang": "zh",
+      "key": "event/iowa-city-holiday-markets",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/iowa-city-jazz-festival.md",
+      "path": "/zh/guides/event/iowa-city-jazz-festival/",
+      "lang": "zh",
+      "key": "event/iowa-city-jazz-festival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/event/iowa-city-pride.md",
+      "path": "/zh/guides/event/iowa-city-pride/",
+      "lang": "zh",
+      "key": "event/iowa-city-pride",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/journal/apartments-search.md",
+      "path": "/zh/guides/journal/apartments-search/",
+      "lang": "zh",
+      "key": "journal/apartments-search",
+      "checked": "2026-10-17",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/journal/zillow-search.md",
+      "path": "/zh/guides/journal/zillow-search/",
+      "lang": "zh",
+      "key": "journal/zillow-search",
+      "checked": "2026-10-17",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/note/trip-amana.md",
+      "path": "/zh/guides/note/trip-amana/",
+      "lang": "zh",
+      "key": "note/trip-amana",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/note/trip-cedar-rapids.md",
+      "path": "/zh/guides/note/trip-cedar-rapids/",
+      "lang": "zh",
+      "key": "note/trip-cedar-rapids",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/note/trip-des-moines.md",
+      "path": "/zh/guides/note/trip-des-moines/",
+      "lang": "zh",
+      "key": "note/trip-des-moines",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/note/trip-galena.md",
+      "path": "/zh/guides/note/trip-galena/",
+      "lang": "zh",
+      "key": "note/trip-galena",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/note/trip-maquoketa.md",
+      "path": "/zh/guides/note/trip-maquoketa/",
+      "lang": "zh",
+      "key": "note/trip-maquoketa",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/note/trip-west-branch.md",
+      "path": "/zh/guides/note/trip-west-branch/",
+      "lang": "zh",
+      "key": "note/trip-west-branch",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/note/winter-clothing.md",
+      "path": "/zh/guides/note/winter-clothing/",
+      "lang": "zh",
+      "key": "note/winter-clothing",
+      "checked": "2026-10-08",
+      "edited": "2026-10-08"
+    },
+    {
+      "file": "content/zh/place/bread-garden.md",
+      "path": "/zh/guides/place/bread-garden/",
+      "lang": "zh",
+      "key": "place/bread-garden",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/i-love-fufu.md",
+      "path": "/zh/guides/place/i-love-fufu/",
+      "lang": "zh",
+      "key": "place/i-love-fufu",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/iowa-pho.md",
+      "path": "/zh/guides/place/iowa-pho/",
+      "lang": "zh",
+      "key": "place/iowa-pho",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/kandaka.md",
+      "path": "/zh/guides/place/kandaka/",
+      "lang": "zh",
+      "key": "place/kandaka",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/la-regia.md",
+      "path": "/zh/guides/place/la-regia/",
+      "lang": "zh",
+      "key": "place/la-regia",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/mesa503.md",
+      "path": "/zh/guides/place/mesa503/",
+      "lang": "zh",
+      "key": "place/mesa503",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/new-pioneer.md",
+      "path": "/zh/guides/place/new-pioneer/",
+      "lang": "zh",
+      "key": "place/new-pioneer",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/nodo.md",
+      "path": "/zh/guides/place/nodo/",
+      "lang": "zh",
+      "key": "place/nodo",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/oasis.md",
+      "path": "/zh/guides/place/oasis/",
+      "lang": "zh",
+      "key": "place/oasis",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/paradise-indian-market.md",
+      "path": "/zh/guides/place/paradise-indian-market/",
+      "lang": "zh",
+      "key": "place/paradise-indian-market",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/soseki.md",
+      "path": "/zh/guides/place/soseki/",
+      "lang": "zh",
+      "key": "place/soseki",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/szechuan-house.md",
+      "path": "/zh/guides/place/szechuan-house/",
+      "lang": "zh",
+      "key": "place/szechuan-house",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/trader-joes.md",
+      "path": "/zh/guides/place/trader-joes/",
+      "lang": "zh",
+      "key": "place/trader-joes",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/place/trumpet-blossom.md",
+      "path": "/zh/guides/place/trumpet-blossom/",
+      "lang": "zh",
+      "key": "place/trumpet-blossom",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/practical/aldi-shopping-notes.md",
+      "path": "/zh/guides/practical/aldi-shopping-notes/",
+      "lang": "zh",
+      "key": "practical/aldi-shopping-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/banking-notes.md",
+      "path": "/zh/guides/practical/banking-notes/",
+      "lang": "zh",
+      "key": "practical/banking-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/bike-ebike-scooter-notes.md",
+      "path": "/zh/guides/practical/bike-ebike-scooter-notes/",
+      "lang": "zh",
+      "key": "practical/bike-ebike-scooter-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/bike-library-notes.md",
+      "path": "/zh/guides/practical/bike-library-notes/",
+      "lang": "zh",
+      "key": "practical/bike-library-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/campus-parking-lots.md",
+      "path": "/zh/guides/practical/campus-parking-lots/",
+      "lang": "zh",
+      "key": "practical/campus-parking-lots",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/campus-sports.md",
+      "path": "/zh/guides/practical/campus-sports/",
+      "lang": "zh",
+      "key": "practical/campus-sports",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/costco-shopping-gas-notes.md",
+      "path": "/zh/guides/practical/costco-shopping-gas-notes/",
+      "lang": "zh",
+      "key": "practical/costco-shopping-gas-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/counseling-support.md",
+      "path": "/zh/guides/practical/counseling-support/",
+      "lang": "zh",
+      "key": "practical/counseling-support",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/health-insurance.md",
+      "path": "/zh/guides/practical/health-insurance/",
+      "lang": "zh",
+      "key": "practical/health-insurance",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/library-resources.md",
+      "path": "/zh/guides/practical/library-resources/",
+      "lang": "zh",
+      "key": "practical/library-resources",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/movie-nights.md",
+      "path": "/zh/guides/practical/movie-nights/",
+      "lang": "zh",
+      "key": "practical/movie-nights",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/outdoor-active.md",
+      "path": "/zh/guides/practical/outdoor-active/",
+      "lang": "zh",
+      "key": "practical/outdoor-active",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/parking-permit-notes.md",
+      "path": "/zh/guides/practical/parking-permit-notes/",
+      "lang": "zh",
+      "key": "practical/parking-permit-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/student-support.md",
+      "path": "/zh/guides/practical/student-support/",
+      "lang": "zh",
+      "key": "practical/student-support",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/study-spaces.md",
+      "path": "/zh/guides/practical/study-spaces/",
+      "lang": "zh",
+      "key": "practical/study-spaces",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/theatre-live-shows.md",
+      "path": "/zh/guides/practical/theatre-live-shows/",
+      "lang": "zh",
+      "key": "practical/theatre-live-shows",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/using-healthcare.md",
+      "path": "/zh/guides/practical/using-healthcare/",
+      "lang": "zh",
+      "key": "practical/using-healthcare",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/utilities-notes.md",
+      "path": "/zh/guides/practical/utilities-notes/",
+      "lang": "zh",
+      "key": "practical/utilities-notes",
+      "checked": "2026-10-17",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/practical/wells-fargo-notes.md",
+      "path": "/zh/guides/practical/wells-fargo-notes/",
+      "lang": "zh",
+      "key": "practical/wells-fargo-notes",
+      "checked": "2026-10-18",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/resource/anki-notes.md",
+      "path": "/zh/guides/resource/anki-notes/",
+      "lang": "zh",
+      "key": "resource/anki-notes",
+      "checked": "2026-11-06",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/resource/budget-bytes-notes.md",
+      "path": "/zh/guides/resource/budget-bytes-notes/",
+      "lang": "zh",
+      "key": "resource/budget-bytes-notes",
+      "checked": "2026-11-06",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/resource/zotero-notes.md",
+      "path": "/zh/guides/resource/zotero-notes/",
+      "lang": "zh",
+      "key": "resource/zotero-notes",
+      "checked": "2026-11-06",
+      "edited": "2026-11-06"
+    },
+    {
+      "file": "content/zh/ride/cedar-rapids-daytrip.md",
+      "path": "/zh/guides/ride/cedar-rapids-daytrip/",
+      "lang": "zh",
+      "key": "ride/cedar-rapids-daytrip",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/ride/cid-arrival.md",
+      "path": "/zh/guides/ride/cid-arrival/",
+      "lang": "zh",
+      "key": "ride/cid-arrival",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/ride/coralville-fares.md",
+      "path": "/zh/guides/ride/coralville-fares/",
+      "lang": "zh",
+      "key": "ride/coralville-fares",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/ride/downtown-to-irl.md",
+      "path": "/zh/guides/ride/downtown-to-irl/",
+      "lang": "zh",
+      "key": "ride/downtown-to-irl",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/ride/first-city-bus.md",
+      "path": "/zh/guides/ride/first-city-bus/",
+      "lang": "zh",
+      "key": "ride/first-city-bus",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/ride/mall-return.md",
+      "path": "/zh/guides/ride/mall-return/",
+      "lang": "zh",
+      "key": "ride/mall-return",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    },
+    {
+      "file": "content/zh/ride/sunday-plan.md",
+      "path": "/zh/guides/ride/sunday-plan/",
+      "lang": "zh",
+      "key": "ride/sunday-plan",
+      "checked": "2026-10-17",
+      "edited": "2026-10-17"
+    }
+  ]
+}

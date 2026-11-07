@@ -1,0 +1,13 @@
+{
+  "imported_on": "2026-11-06",
+  "source_deploy": "6ad93e88171202cdb1b2f0fe",
+  "markdown_files": 179,
+  "aliases": {
+    "place/aldi": "practical/aldi-shopping-notes",
+    "place/costco": "practical/costco-shopping-gas-notes",
+    "ride/without-a-car": "practical/bike-ebike-scooter-notes",
+    "ride/bike-library": "practical/bike-library-notes",
+    "ride/parking-permits": "practical/parking-permit-notes"
+  },
+  "note": "One-time data extraction. Future edits must use content/*.md; do not rerun this importer."
+}

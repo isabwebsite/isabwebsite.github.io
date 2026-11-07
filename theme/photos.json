@@ -1,0 +1,219 @@
+{
+  "photos": {
+    "iowa-block-party": {
+      "id": "iowa-block-party",
+      "path": "assets/photos/iowa-block-party.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iowa_City_Downtown_Block_Party_%2835492857306%29.jpg",
+      "author": "Alan Light",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1280,
+      "height": 767,
+      "caption": {
+        "en": "Iowa City · Downtown Block Party, 2017",
+        "zh": "爱荷华城 · 2017 年市中心街区派对"
+      },
+      "alt": {
+        "en": "People watching street volleyball at the first Iowa City Downtown Block Party in June 2017.",
+        "zh": "2017 年 6 月首届爱荷华城市中心街区派对，路人围观街头排球。"
+      },
+      "location": "Iowa City",
+      "taken": "2017-06-24"
+    },
+    "bluebird": {
+      "id": "bluebird",
+      "path": "assets/photos/bluebird.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Bluebird_dinner_Iowa_city_-_2.jpg",
+      "author": "Crcjfly",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1280,
+      "height": 719,
+      "caption": {
+        "en": "Iowa City · Bluebird Diner, 2016",
+        "zh": "爱荷华城 · Bluebird Diner，2016 年"
+      },
+      "alt": {
+        "en": "Bluebird Diner exterior and blue awning in Iowa City, photographed in February 2016.",
+        "zh": "爱荷华城 Bluebird Diner 外观与蓝色遮篷，摄于 2016 年 2 月。"
+      },
+      "location": "Iowa City",
+      "taken": "2016-02-27"
+    },
+    "amana": {
+      "id": "amana",
+      "path": "assets/photos/amana.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Chocolate_Haus_Amana_IA_-_panoramio.jpg",
+      "author": "Chanilim714",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 1280,
+      "height": 850,
+      "caption": {
+        "en": "Amana · The Chocolate Haus, 2010",
+        "zh": "Amana · The Chocolate Haus，2010 年"
+      },
+      "alt": {
+        "en": "The Chocolate Haus wooden storefront with autumn trees in Amana, photographed in September 2010.",
+        "zh": "Amana 的 The Chocolate Haus 木屋门面与秋日树木，摄于 2010 年 9 月。"
+      },
+      "location": "Amana",
+      "taken": "2010-09-18"
+    },
+    "maquoketa": {
+      "id": "maquoketa",
+      "path": "assets/photos/maquoketa.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Maquoketa_Caves_01.jpg",
+      "author": "Gardner.glen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 854,
+      "caption": {
+        "en": "Maquoketa Caves State Park · 2017",
+        "zh": "Maquoketa Caves 州立公园 · 2017 年"
+      },
+      "alt": {
+        "en": "Limestone rock formations and green woodland at Maquoketa Caves State Park, photographed in May 2017.",
+        "zh": "Maquoketa Caves 州立公园的石灰岩与绿林，摄于 2017 年 5 月。"
+      },
+      "location": "Maquoketa Caves State Park",
+      "taken": "2017-05-09"
+    },
+    "galena": {
+      "id": "galena",
+      "path": "assets/photos/galena.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Galena_Illinois_Street_Main_Street_looking_south.jpg",
+      "author": "Robert Haugland",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 853,
+      "caption": {
+        "en": "Galena, Illinois · Main Street, 2018",
+        "zh": "伊利诺伊州 Galena · Main Street，2018 年"
+      },
+      "alt": {
+        "en": "Main Street in Galena, Illinois, looking south from Franklin Street, photographed in August 2018.",
+        "zh": "从 Franklin Street 向南望的伊利诺伊州 Galena Main Street，摄于 2018 年 8 月。"
+      },
+      "location": "Galena, Illinois",
+      "taken": "2018-08-18"
+    },
+    "hoover": {
+      "id": "hoover",
+      "path": "assets/photos/hoover.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_NHS_-_bridge_and_birthplace_cottage.jpg",
+      "author": "Ser Amantio di Nicolao",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 960,
+      "caption": {
+        "en": "West Branch · Herbert Hoover historic site, 2022",
+        "zh": "West Branch · Herbert Hoover 历史遗址，2022 年"
+      },
+      "alt": {
+        "en": "White bridge, lawn and Herbert Hoover birthplace cottage at the historic site in West Branch, photographed in July 2022.",
+        "zh": "West Branch 历史遗址的白色小桥、草坪与 Herbert Hoover 出生小屋，摄于 2022 年 7 月。"
+      },
+      "location": "West Branch",
+      "taken": "2022-07-21"
+    },
+    "cedar-rapids": {
+      "id": "cedar-rapids",
+      "path": "assets/photos/cedar-rapids.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Cedar_Rapids_Skyline_%282022%29.jpg",
+      "author": "WeaponizingArchitecture",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 1280,
+      "height": 516,
+      "caption": {
+        "en": "Cedar Rapids · Riverfront, 2022",
+        "zh": "Cedar Rapids · 河畔，2022 年"
+      },
+      "alt": {
+        "en": "Cedar Rapids skyline viewed across the Cedar River, photographed in September 2022.",
+        "zh": "隔 Cedar River 望向 Cedar Rapids 市区建筑，摄于 2022 年 9 月。"
+      },
+      "location": "Cedar Rapids",
+      "taken": "2022-09-23"
+    },
+    "des-moines": {
+      "id": "des-moines",
+      "path": "assets/photos/des-moines.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg",
+      "author": "Tony Webster; crop by Hurstbergn",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "width": 1280,
+      "height": 776,
+      "caption": {
+        "en": "Des Moines · Winter skyline, 2016",
+        "zh": "Des Moines · 冬日市景，2016 年"
+      },
+      "alt": {
+        "en": "Des Moines skyline and river at winter dawn, viewed from the SE 6th Street bridge in January 2016.",
+        "zh": "2016 年 1 月从 SE 6th Street 桥望向 Des Moines 冬日清晨的市区与河流。"
+      },
+      "location": "Des Moines",
+      "taken": "2016-01-23"
+    },
+    "downtown": {
+      "id": "downtown",
+      "path": "assets/downtown-iowa-city.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Iowa_City_Downtown_June_2021_(cropped).jpg",
+      "author": "Stevat20; crop by Gcardinal101",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "width": 1195,
+      "height": 596,
+      "caption": {
+        "en": "Iowa City · Clinton Street, 2021",
+        "zh": "Iowa City · Clinton Street，2021 年"
+      },
+      "alt": {
+        "en": "Downtown Iowa City storefronts along South Clinton Street in June 2021.",
+        "zh": "2021 年 6 月，Iowa City 市中心 South Clinton Street 沿街店铺。"
+      },
+      "location": "Iowa City",
+      "taken": "2021-06-06"
+    },
+    "iowa-winter": {
+      "id": "iowa-winter",
+      "path": "assets/photos/iowa-winter.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:12.27.2010_-frosted_pentacrest-_346_365_(5309174103).jpg",
+      "author": "Phil Roeder",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "width": 1400,
+      "height": 800,
+      "caption": {
+        "en": "Iowa City · Frost around the Old Capitol, 2010",
+        "zh": "Iowa City · Old Capitol 周围的雾凇，2010 年"
+      },
+      "alt": {
+        "en": "Frost-covered trees around the Old Capitol in Iowa City, photographed in December 2010.",
+        "zh": "2010 年 12 月，Iowa City 的 Old Capitol 与雾凇树木。"
+      },
+      "location": "Iowa City",
+      "taken": "2010-12-27"
+    }
+  },
+  "hero": {
+    "hero-main-image": "downtown",
+    "hero-side-image": "bluebird",
+    "hero-trip-image": "maquoketa",
+    "transport-image": "iowa-block-party"
+  },
+  "notes": {
+    "winter-clothing": "iowa-winter",
+    "trip-west-branch": "hoover",
+    "trip-amana": "amana",
+    "trip-cedar-rapids": "cedar-rapids",
+    "trip-maquoketa": "maquoketa",
+    "trip-galena": "galena",
+    "trip-des-moines": "des-moines"
+  }
+}
