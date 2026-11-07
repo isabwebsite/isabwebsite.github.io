@@ -1,5 +1,8 @@
 ISAB 生活与学习小刊：给下一任维护者
 
+English guide: README.md and docs/MAINTAINING.md.
+网站默认使用英文；这份文件保留为中文参考。
+
 你不需要会写代码，也不需要上一任的 AI 账号。
 你的工作是决定写什么、核对内容、看预览，再决定是否发布。
 

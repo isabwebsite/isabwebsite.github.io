@@ -4,7 +4,7 @@ This is an independently edited student life/study journal, not an official scho
 
 ## Scope and source of truth
 
-- Read `README.md`, `docs/AI维护说明.md`, and the target Markdown source before editing.
+- Read `README.md`, `docs/MAINTAINING.md`, and the target Markdown source before editing. The Chinese maintenance guide remains available as a reference.
 - Edit articles in `content/<lang>/<kind>/<slug>.md`. Never hand-edit generated `dist/`.
 - Do not rerun `tools/import_existing.py`: the one-time snapshot extraction predates current edits.
 - Use standard-library Python 3.9+. Do not add dependency services, online AI APIs, databases, reader logins, tracking or paid tooling for routine updates.
@@ -13,6 +13,7 @@ This is an independently edited student life/study journal, not an official scho
 
 ## Editorial rules
 
+- English is the default public language: the site root, navigation, generic error page, repository welcome page and main handover instructions should be English. Preserve explicit Chinese and other language routes and the language switcher. New notes should include English; do not change the default based on the maintainer's chat language.
 - Natural, concrete language: a clear question, short introduction, one useful takeaway, readable sections, sources. Never manufacture first-person experience or endorse a rental/business as vetted.
 - `edited` records writing changes. `checked` records actual source review. Never update `checked` solely because the template or layout changed.
 - Verify changeable facts at primary sources when adding/updating them. Preserve uncertainty and eligibility/cost distinctions. Do not call a service free if only a trial or some features are free.

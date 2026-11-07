@@ -1,54 +1,60 @@
-# ISAB 生活与学习小刊
+# ISAB Everyday Journal
 
-这里是 **ISAB 生活与学习小刊的可编辑源文件**。2026 年 11 月 6 日已发布到社团自己的 GitHub Pages 地址，原 Netlify 网站没有变动。
+Useful websites and practical notes for student life in Iowa City, independently edited by students. **English is the default language.** Readers can choose Chinese and the other available languages from the language menu.
 
-- 社团组织：[isabwebsite](https://github.com/isabwebsite)
-- 最新文稿与网站项目：[isabwebsite.github.io](https://github.com/isabwebsite/isabwebsite.github.io)
-- 正式网站：[isabwebsite.github.io](https://isabwebsite.github.io/)
-- 自动检查与发布：[查看运行结果](https://github.com/isabwebsite/isabwebsite.github.io/actions)
+- **Read the journal:** [isabwebsite.github.io](https://isabwebsite.github.io/)
+- **Latest project files:** [club repository](https://github.com/isabwebsite/isabwebsite.github.io)
+- **Check an update:** [automatic checks and publishing](https://github.com/isabwebsite/isabwebsite.github.io/actions)
 
-**第一次接手、不会写代码：先打开 [从这里开始.txt](从这里开始.txt)。** 里面有可以直接复制给 AI 的话；[换届交接说明](docs/换届交接.md) 解释文件、权限与发布如何衔接。
+## Start here — no coding needed
 
-## 先看新版
+Open the latest project in an AI tool that can edit files. Read [Keep the journal going](docs/MAINTAINING.md), which includes a prompt you can copy into your AI tool, publishing instructions and the annual handover steps.
 
-在 Mac 上双击本文件旁边的 **预览.command**，会打开本地网页。预览窗口需要保持开启；结束时关闭窗口或按 Control+C。
+**Describe the change → review the local preview → approve publication.** You choose what is useful and verify the facts; the AI helps with the files and checks. You do not need the previous maintainer's AI account.
 
-如果系统不允许直接打开，或提示找不到 Python，把整个文件夹交给 AI，让它阅读本文并启动预览即可。需要 Python 3.9 或更新版本；不需要安装其他程序包，不需要发布账号或 AI 接口密钥。Windows/Linux 可让 AI 运行 `python tools/preview.py`（部分系统使用 `python3`）。
+## Preview a change
 
-不要直接双击 `dist/index.html`：网站的文章和图片使用站点路径，需要通过上面的本地预览打开。
+On a Mac, double-click `预览.command` in this folder. Keep the preview window running while you browse. If it will not open, ask your AI tool to start the preview using this README.
 
-## 下次改哪里
+The project needs Python 3.9 or newer and no extra Python packages. On Windows or Linux, ask the AI to run `python tools/preview.py` or `python3 tools/preview.py`. It will print a local address. Opening `dist/index.html` directly does not load the site's routes correctly.
 
-| 想做的事 | 文件位置 |
+Saving an article rebuilds the local preview; refresh the browser to see the change.
+
+## Find the right file
+
+| What you want to change | Where it lives |
 | --- | --- |
-| 改一篇文章 | `content/zh/` 中文；`content/en/` 英文；按文章种类分文件夹 |
-| 增加一篇文章 | 复制 `docs/文章模板.md`，请 AI 填好开头资料栏，再放进 `content/` |
-| 让 AI 接手 | 让它先读根目录 `AGENTS.md` 和 `docs/AI维护说明.md` |
-| 找到所有文章 | `docs/文章索引.md` |
-| 修改首页文字或版式 | 请 AI 改 `tools/build.py`、`theme/styles.css`，保留文章源文件 |
-| 修改首页推荐栏目 | `theme/editorial.json`；新增文章会自动进入目录和最近更新 |
-| 查看本次检查 | `docs/验证记录.md` |
+| An English article | `content/en/`, one text file per article |
+| A Chinese article | `content/zh/` |
+| A new article | Start with [the English template](docs/ARTICLE_TEMPLATE.md) |
+| Homepage recommendations | `theme/editorial.json` |
+| Website design | `theme/styles.css`, `theme/site.js`, `tools/build.py` |
+| AI editing and handover instructions | [docs/MAINTAINING.md](docs/MAINTAINING.md) and `AGENTS.md` |
 
-**一篇文章是一份普通文字文件。** 开头几行保存标题、摘要、日期、链接；下面就是正文。编辑文章不用碰网页代码。可以先只写中文，缺少译文时会展示现有语言并标注，不会从文章列表消失。
+Each article is a plain-text Markdown file: a short information section at the top, followed by the article itself. Write in natural English, show useful sources and preserve image credits. School resource links are allowed; the journal must not claim to be an official school website.
 
-请勿修改 `dist/` 中的网页：它们由文稿自动生成，下次预览会更新。`tools/import_existing.py` 是本次迁移的一次性记录，不能用来更新文章，也不要再次运行。
+English and Chinese versions are maintained where available. Existing seasonal and weekend articles also include nine other languages. Missing translations are clearly identified; not every article has eleven translations.
 
-## 最短维护流程
+`dist/` contains generated webpages. Update the articles and rebuild instead of editing those pages. Do not rerun `tools/import_existing.py`, which records the original one-time import.
 
-1. 把这个完整文件夹复制一份，作为这次修改前的备份。
-2. 告诉 AI 哪一篇需要怎样改，附上可靠来源。AI 阅读说明后，只改对应文稿。
-3. 打开本地预览，检查标题、链接、手机排版，以及中英文是否一致。
-4. 请 AI 运行 `python3 tools/check.py`。检查通过后，保存这次版本和改动说明。
-5. 预览确认后，再保存和发布。GitHub 发布启用后，合并到 `main` 会更新公开网站；草稿保留在修改分支。不要把密码、私人邮箱或支付资料放进文稿。
+## Publish an approved update
 
-生成静态网页的命令是 `python3 tools/build.py`；生成后在 `dist/`。正常预览会自动完成这一步，保存文稿后刷新浏览器即可看到变化。
+1. Get the latest project files and make changes on a working branch.
+2. Ask the AI to generate the site, run `python3 tools/check.py` and open a local preview.
+3. Review the writing, sources, links, language switching and mobile layout.
+4. Save the proposed update as a pull request. Wait for **Check website** to pass.
+5. Once approved, merge into `main`. **A push or merge to `main` automatically updates the public website.** Wait for **Publish website** to succeed, then check the live page.
 
-## 内容与账号交接
+Other branches run checks without publishing. The repository's `PUBLISH_SITE` variable is currently `true`. Read [the maintenance guide](docs/MAINTAINING.md) before changing publication settings or undoing an update.
 
-最重要的交接物是 **整个 isab-journal 文件夹**，包括文稿、图片、模板、生成工具和说明。它可离线备份，也可日后放进社团拥有的代码仓库；不依赖原作者的 AI 聊天记录。
+The local preview is excluded from search indexing. The publishing workflow uses the actual GitHub Pages address to generate public links and a sitemap. This project currently expects a website root such as `https://isabwebsite.github.io/`, not a repository subpath.
 
-网站已使用 GitHub Pages，日常更新不需要注册 Netlify。社团每年换邮箱，也可以沿用同一个组织资料库和网站；按届更新管理员与联系邮箱，权限交接要在旧邮箱停用前完成。旧 Netlify 项目仍由原账号控制，尚未转移、停用或设置跳转。发布权限、恢复安排和网站内容应分开登记；不要把密码或恢复码写进本文件夹。
+## Pass it to the next committee
 
-`.github/workflows/` 包含自动检查和 Pages 发布流程，首次线上检查与发布已通过。当前 `PUBLISH_SITE=true`，**push 或合并到 `main` 会自动更新公开网站**；其他分支只检查。配置方法和撤回步骤见 [GitHub 发布与恢复](docs/GitHub发布与恢复.md)。以资料库作为每次更新的最新来源，压缩包作为备份。AI 必须能编辑项目并获得相应权限，才能把修改保存或发布；仅粘贴网址不保证可以完成这些操作。换届另见 [交接说明](docs/换届交接.md)。
+The website belongs to the [isabwebsite organization](https://github.com/isabwebsite). Keep the organization and repository; update administrators and the club contact email each year. Incoming maintainers use their own GitHub accounts. A complete project backup is useful, but does not grant account access.
 
-本地预览默认禁止搜索引擎收录。正式发布流程会读取 Pages 的实际网址，并使用 `--public-url` 生成正式地址、站点地图和搜索收录配置。当前工具按网站根目录部署，不能直接用于带仓库子路径的地址。
+At least two trusted current committee members should be organization Owners. Only the founding administrator is currently in place; the second owner and the incoming committee's independent publishing exercise still need to be arranged. After a successful handover, departing administrators can leave.
+
+The site uses GitHub Pages under the club's Free organization plan. No personal publishing credentials, reader logins or AI API keys belong in this project. AI tools may have their own pricing. Keep recovery information outside the public repository. The old Netlify site has not been transferred, removed or redirected.
+
+Chinese reference instructions remain available in [AI维护说明](docs/AI维护说明.md), [换届交接](docs/换届交接.md) and [GitHub发布与恢复](docs/GitHub发布与恢复.md).

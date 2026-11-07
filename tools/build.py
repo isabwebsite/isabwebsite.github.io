@@ -12,7 +12,8 @@ def today_string():
     try:return datetime.now(ZoneInfo('America/Chicago')).date().isoformat()
     except ZoneInfoNotFoundError:return date.today().isoformat()
 
-LANGS={'zh':'简体中文','en':'English','es':'Español','ar':'العربية','hi':'हिन्दी','ko':'한국어','vi':'Tiếng Việt','fr':'Français','bn':'বাংলা','pt':'Português','sw':'Kiswahili'}
+DEFAULT_LANG='en'
+LANGS={'en':'English','zh':'简体中文','es':'Español','ar':'العربية','hi':'हिन्दी','ko':'한국어','vi':'Tiếng Việt','fr':'Français','bn':'বাংলা','pt':'Português','sw':'Kiswahili'}
 CATS={'study':('学习有办法','Study a little better'),'food':('吃饭与买菜','Food & groceries'),'home':('安顿日常','Make yourself at home'),'move':('出门与通勤','Getting around'),'weekend':('给自己放个假','A little time off'),'care':('需要帮助时','Find support'),'events':('城市的热闹','Around town')}
 WORDS={
 'home':('首页','Home'),'all':('全部笔记','All notes'),'about':('关于这本小刊','About this journal'),'recent':('最近更新','Fresh pages'),
@@ -128,7 +129,7 @@ class Builder:
     if self.public_url:
         html=re.sub(r'<link rel="canonical" href="[^"]*">', '<link rel="canonical" href="'+escape(self.public_url+path)+'">', html)
     dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(html,encoding='utf-8');self.routes.add(path)
- def shell(self,title,body,lang='zh',active='',description='',article=None):
+ def shell(self,title,body,lang=DEFAULT_LANG,active='',description='',article=None):
     zh=lang=='zh';home='/'+lang+'/';current=article['path'] if article else home
     options=[]
     for code,name in LANGS.items():
@@ -154,7 +155,7 @@ class Builder:
     resources=''.join(f'<a class="resource-row" href="{a["path"]}"><strong>{escape(a["site"])}</strong><span>{escape(a.get("cost",a["summary"]))}</span><span aria-hidden="true">↗</span></a>' for a in [r for r in new if r['kind']=='resource'][:3])
     body=f'''<main id="main"><div class="edition"><span>ISAB · IOWA CITY</span><span>{'同学整理，日常慢慢用。' if zh else 'Student notes. Everyday discoveries.'}</span><time datetime="{self.today}">{self.today}</time></div>{language_notice}<section class="hero"><div class="hero-copy"><p class="eyebrow">A LITTLE HELP FOR EVERYDAY LIFE</p><h1>{'把日子<br>过顺一点。' if zh else 'A little help.<br>A better day.'}</h1><p class="hero-intro">{'一顿饭怎么做，一篇论文怎么找，一个周末怎么过。把值得用的网站和小方法，留在这里，慢慢翻。' if zh else 'A meal to make, a paper to find, a weekend to enjoy. Good websites and small ideas, collected for life here.'}</p><a class="button primary" href="#latest">{'翻开最近的笔记' if zh else 'Open the latest notes'} <span aria-hidden="true">↗</span></a><p class="hero-byline">{'由 ISAB 编辑组独立整理' if zh else 'Independently put together by ISAB editors'}</p></div><figure class="hero-photo"><img src="/assets/downtown-iowa-city.jpg" alt="{'2021 年 Iowa City 的 Clinton Street 沿街店铺' if zh else 'Clinton Street storefronts in Iowa City in 2021'}" width="1195" height="596" fetchpriority="high"><div class="photo-label"><span>01 / LOCAL LIFE</span><b>{'从这里，开始熟悉一座城。' if zh else 'Make a place feel a little more familiar.'}</b></div><figcaption>Clinton Street, Iowa City · 2021 · <a href="/{lang}/about/#sources">{'照片来源' if zh else 'Photo credit'}</a></figcaption></figure></section><nav class="topic-nav" aria-label="{'按日常主题阅读' if zh else 'Explore by topic'}">{topics}</nav><section id="latest" class="section"><div class="section-head"><div><p class="eyebrow">NEW IN THE JOURNAL</p><h2>{tr('recent',lang)}</h2></div><a class="text-link" href="/{lang}/notes/">{tr('all',lang)} ↗</a></div><div class="cards-three">{''.join(self.card(a,lang) for a in featured)}</div></section><section class="section reading-section"><div class="reading-intro"><p class="eyebrow">A GOOD PLACE TO START</p><h2>{'今天，先解决<br>一件小事。' if zh else 'One small thing<br>at a time.'}</h2><p>{'不用一次读完。找到眼下需要的那一篇，做完一件事，再回来翻下一页。' if zh else 'No need to read everything. Find the note you need, try one useful thing, and come back for the next.'}</p></div><div class="reading-list">{reading}</div></section><section class="section season-section"><div class="section-head"><div><p class="eyebrow">FOR THE SEASON</p><h2>{escape(self.editorial['season_title_zh' if zh else 'season_title_en'])}</h2></div><a class="text-link" href="/{lang}/notes/?topic=weekend">{'留点时间给自己' if zh else 'Make a little time'} ↗</a></div><div class="season-grid">{''.join(self.card(a,lang,'season-card') for a in season)}</div></section><section class="section resources-section"><div><p class="eyebrow">BOOKMARK-WORTHY</p><h2>{'值得留下的网站' if zh else 'Worth a bookmark'}</h2><p>{'先看看能帮什么，再决定要不要注册。' if zh else 'See what it helps with before creating an account.'}</p></div><div>{resources}</div></section><section class="closing-note"><p>{'这里的笔记，会跟着大家的生活慢慢长大。' if zh else 'A journal that grows with the people who use it.'}</p><a href="/{lang}/about/">{'认识这本小刊' if zh else 'Meet the journal'} ↗</a></section></main>'''
     self.write('/'+lang+'/',self.shell(tr('guide',lang),body,lang,'home'))
-    if lang=='zh':self.write('/',self.shell(tr('guide',lang),body,lang,'home'))
+    if lang==DEFAULT_LANG:self.write('/',self.shell(tr('guide',lang),body,lang,'home'))
  def article(self,a):
     lang=a['lang'];zh=lang=='zh';key=a['key'];toc=''.join(f'<a href="#{ident}">{escape(label)}</a>' for ident,label,level in a['headings'] if level==2)
     facts=''.join(f'<div><dt>{tr(k,lang)}</dt><dd>{escape(a[k])}</dd></div>' for k in ['login','cost'] if a.get(k))
@@ -204,7 +205,7 @@ class Builder:
           if a:self.redirect(f'/{lang}/guides/{old}/',a['path'],lang)
       language_list=''.join(f'<li><a href="/{code}/">{name}</a></li>' for code,name in LANGS.items())
       self.write('/directory/',self.shell('Languages',f'<main id="main" class="about-page"><h1>Choose your language</h1><ul class="language-directory">{language_list}</ul></main>','en'))
-      self.write('/404.html',self.shell('找不到这页 / Page not found','<main id="main" class="about-page"><h1>这页可能搬家了。</h1><p>This page may have moved. Find the note in the journal.</p><a class="button primary" href="/zh/notes/">查看全部笔记 / Browse notes ↗</a></main>'))
+      self.write('/404.html',self.shell('Page not found','<main id="main" class="about-page"><h1>This page may have moved.</h1><p>Find the note you need in the journal.</p><a class="button primary" href="/en/notes/">Browse all notes ↗</a></main>'))
       (self.out/'legacy-routes.json').write_text(json.dumps(self.aliases,ensure_ascii=False))
       # URL metadata is generated only for an explicitly chosen public address.
       if self.public_url:

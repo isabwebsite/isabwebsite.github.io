@@ -1,8 +1,8 @@
 'use strict';
 (() => {
-  const lang = document.body.dataset.lang || 'zh';
+  const lang = document.body.dataset.lang || 'en';
   const zh = lang === 'zh';
-  const supported = ['zh','en','es','ar','hi','ko','vi','fr','bn','pt','sw'];
+  const supported = ['en','zh','es','ar','hi','ko','vi','fr','bn','pt','sw'];
   const query = new URLSearchParams(location.search);
   // Keep links shared from the older one-page guide usable.
   const preferred = query.get('lang');
@@ -18,7 +18,7 @@
     const topic=oldSections[hash];
     location.replace('/'+resolvedLang+'/'+(topic==='home'?'':topic==='about'?'about/':'notes/'+(topic?'?topic='+topic:'')));return;
   }
-  if (root && preferred && supported.includes(preferred) && preferred!=='zh') {location.replace('/'+preferred+'/');return;}
+  if (root && preferred && supported.includes(preferred) && preferred!==lang) {location.replace('/'+preferred+'/');return;}
   document.getElementById('language')?.addEventListener('change',event=>{ location.href=event.target.value; });
 
   const input=document.getElementById('search');
