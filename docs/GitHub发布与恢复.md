@@ -1,6 +1,6 @@
 # 用 GitHub 更新网站
 
-2026-11-06：[社团组织](https://github.com/isabwebsite) 和 [网站资料库](https://github.com/isabwebsite/isabwebsite.github.io) 已建立，[新版网站](https://isabwebsite.github.io/) 已发布。现有 Netlify 网站没有变动。下列设置步骤保留供以后重新搭建时参考。
+2026-11-06：[社团组织](https://github.com/isabwebsite) 和 [网站资料库](https://github.com/isabwebsite/isabwebsite.github.io) 已建立，[新版网站](https://isabwebsite.github.io/) 已发布。旧 Netlify 项目已于同日经确认永久删除，当前发布版本的 307 个文件已另行备份；旧网址已停用。下列设置步骤保留供以后重新搭建时参考。
 
 当前使用 GitHub Free 组织、公开资料库和免费的 `github.io` 地址。发布方式为 GitHub Actions，资料库变量 `PUBLISH_SITE=true`；保存或合并到 `main` 会自动更新网站，其他分支只检查。当前只有首任负责人担任组织管理员，第二位管理员尚未加入。联系邮箱由组织设置管理，不写入公开项目，也不等于该邮箱持有人已获得编辑权限。
 

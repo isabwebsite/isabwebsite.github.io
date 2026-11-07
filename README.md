@@ -55,6 +55,6 @@ The website belongs to the [isabwebsite organization](https://github.com/isabweb
 
 At least two trusted current committee members should be organization Owners. Only the founding administrator is currently in place; the second owner and the incoming committee's independent publishing exercise still need to be arranged. After a successful handover, departing administrators can leave.
 
-The site uses GitHub Pages under the club's Free organization plan. No personal publishing credentials, reader logins or AI API keys belong in this project. AI tools may have their own pricing. Keep recovery information outside the public repository. The old Netlify site has not been transferred, removed or redirected.
+The site uses GitHub Pages under the club's Free organization plan. No personal publishing credentials, reader logins or AI API keys belong in this project. AI tools may have their own pricing. Keep recovery information outside the public repository. The old Netlify project was permanently deleted on November 6, 2026, after its published files were backed up. Its old address is retired; use the GitHub Pages address above.
 
 Chinese reference instructions remain available in [AI维护说明](docs/AI维护说明.md), [换届交接](docs/换届交接.md) and [GitHub发布与恢复](docs/GitHub发布与恢复.md).

@@ -55,4 +55,4 @@ Before the old committee leaves, have the next maintainer independently make a s
 
 Give the next committee the website link, repository link and a complete project backup. Keep account recovery information separately, outside the public repository and AI chats. Remove departing administrators after the handover works.
 
-The site uses GitHub Pages under the club's Free organization plan. No personal publishing token or AI subscription is built into the website. AI services may have their own fees. The old Netlify site remains a separate, unchanged project.
+The site uses GitHub Pages under the club's Free organization plan. No personal publishing token or AI subscription is built into the website. AI services may have their own fees. The old Netlify project was permanently deleted on November 6, 2026, after a backup of its published files. Its old address no longer serves the journal; use the GitHub Pages address.
